@@ -46,5 +46,7 @@ Dataframes were utilized as the core for each chart. The first was a bar plot of
 - Numpy and Pandas for data manipulation
 - Matplotlib and Seaborn for plotting
 
-#### Communication
+#### Communication  
+Final Recommendation: From my analysis, I recommend WTWY to canvas the 34 ST-Penn Station and 34 ST-Herald Square station on Tuesdays to Fridays between the hours of 05:00 P.M. and 08:00 P.M.  
+
 Please see my [presentation deck](https://github.com/braden-taack/Metis_EDA_Project/blob/main/NYC%20Subway%20Analysis%20for%20WomenTechWomenYes%20Gala.pdf) or images in my [github repo](https://github.com/braden-taack/Metis_EDA_Project) for accompanying charts and code. 
