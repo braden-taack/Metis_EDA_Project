@@ -5,11 +5,11 @@ Braden Taack
 
 #### Abstract
   
-The goal of this project is to use exploratory data analysis methods to help direct the canvasing resourses of the WomenTechWomenYes (WTWY) organization. I worked with turnstile data from the [MTA subway data website](http://web.mta.info/developers/turnstile.html) and used it to filter down to the busiest stations, days, and times. After cleaning the data I plotted my results for each using Matplotlib and Seaborn. 
+The goal of this project is to use exploratory data analysis methods to help direct the canvassing resources of the WomenTechWomenYes (WTWY) organization. I worked with turnstile data from the [MTA subway data website](http://web.mta.info/developers/turnstile.html) and used it to filter down to the busiest stations, days, and times. After cleaning the data I plotted my results for each using Matplotlib and Seaborn. 
 
 #### Design
 
-This project originates from the request for help from the WTWY organization. They are a newer, inclusive group focused on increasing the participation of women in technology, and to concurrently build awareness and reach. The group canvases subways entrances to gather emails and to send out tickets to their annual gala to responders. Their goal is to maximize attendance at their gala, so my goal is to maximize the number of people they can potentially talk to at the subway entrances. Leveraging the MTA data, I aimed at calculating daily and hourly entries for each station to categorize the busiest. Leading WTWY to the busiest stations at the right times should be sure to get extra gala atendees. 
+This project originates from the request for help from the WTWY organization. They are a newer, inclusive group focused on increasing the participation of women in technology, and to concurrently build awareness and reach. The group canvasses subways entrances to gather emails and to send out tickets to their annual gala to responders. Their goal is to maximize attendance at their gala, so my goal is to maximize the number of people they can potentially talk to at the subway entrances. Leveraging the MTA data, I aimed at calculating daily and hourly entries for each station to categorize the busiest. Leading WTWY to the busiest stations at the right times should be sure to get extra gala atendees. 
 
 #### Data
 
