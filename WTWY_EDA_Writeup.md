@@ -9,7 +9,7 @@ The goal of this project is to use exploratory data analysis methods to help dir
 
 #### Design
 
-This project originates from the request for help from the WTWY organization. They are a newer, inclusive group focused on increasing the participation of women in technology, and to concurrently build awareness and reach. The group canvasses subways entrances to gather emails and to send out tickets to their annual gala to responders. Their goal is to maximize attendance at their gala, so my goal is to maximize the number of people they can potentially talk to at the subway entrances. Leveraging the MTA data, I aimed at calculating daily and hourly entries for each station to categorize the busiest. Leading WTWY to the busiest stations at the right times should be sure to get extra gala atendees. 
+This project originates from the request for help from the WTWY organization. They are a newer, inclusive group focused on increasing the participation of women in technology, and to concurrently build awareness and reach. The group canvasses subways entrances to gather emails and to send out tickets to their annual gala to responders. Their goal is to maximize attendance at their gala, so my goal is to maximize the number of people they can potentially talk to at the subway entrances. Leveraging the MTA data, I aimed at calculating daily and hourly entries for each station to categorize the busiest. Leading WTWY to the busiest stations at the right times should be sure to get extra gala attendees. 
 
 #### Data
 
@@ -47,4 +47,4 @@ Dataframes were utilized as the core for each chart. The first was a bar plot of
 - Matplotlib and Seaborn for plotting
 
 #### Communication
-Please see my [slides]() or images in my [github repo]() for accompanying charts. 
+Please see my [presentation deck](https://github.com/braden-taack/Metis_EDA_Project/blob/main/NYC%20Subway%20Analysis%20for%20WomenTechWomenYes%20Gala.pdf) or images in my [github repo](https://github.com/braden-taack/Metis_EDA_Project) for accompanying charts and code. 
